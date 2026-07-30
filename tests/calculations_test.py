@@ -1,6 +1,8 @@
 # System Modules
 import sys
 import os
+import pytest
+from src.calculations import area_of_circle, get_nth_fibonacci  # or whatever your imports are
 
 # Installed Modules
 import pytest
